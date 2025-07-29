@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2017/10/estudante_estudos.gif?w=245&h=132&crop=1"  />
 
 ###
 
