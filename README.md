@@ -10,7 +10,12 @@ A missão da Faculdade Santo Antônio é oferecer uma formação que valoriza a 
 
 <h2 align="left">📍 Caçapava <-> São José dos Campos  </h2>
 
-
+Acesse o Site Oficial e fique por dentro de todas as novidades.
+<div align="left">
+  <a href="https://fsantoantonio.edu.br/">
+    <img align="right" height="150" src="[https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2017/10/estudante_estudos.gif?w=245&h=132&crop=1](https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/faculdade-santo-antonio-cacapava.png)"  />
+  </a>
+</div>
 ###
 
 <img align="right" height="150" src="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2017/10/estudante_estudos.gif?w=245&h=132&crop=1"  />
