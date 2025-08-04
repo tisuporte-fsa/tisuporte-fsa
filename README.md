@@ -18,12 +18,12 @@ Acesse o Site Oficial e fique por dentro de todas as novidades.
   </a>
 </div>
 
+<br><br>
 
-<a>
 <div align="left">
   <h2 align="left">Contatos 🖥</h2>
 </div>
-</a>
+
 
 <div align="left">
   <a href="https://www.youtube.com/@faculsantoantonio">
