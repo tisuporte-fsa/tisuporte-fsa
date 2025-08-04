@@ -34,6 +34,10 @@ A missão da Faculdade Santo Antônio é oferecer uma formação que valoriza a 
 
 ###
 
+<h2 align="left">Contatos 🖥</h2>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/faculsantoantonio/">
