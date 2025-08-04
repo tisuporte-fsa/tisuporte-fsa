@@ -13,7 +13,7 @@ A missão da Faculdade Santo Antônio é oferecer uma formação que valoriza a 
 Acesse o Site Oficial e fique por dentro de todas as novidades.
 <div align="left">
   <a href="https://fsantoantonio.edu.br/">
-    <img align="right" height="150" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/faculdade-santo-antonio-cacapava.png"  />
+    <img align="left" height="150" src="https://fsantoantonio.edu.br/wp-content/uploads/elementor/thumbs/branco_Marca_FSA_Horizontal_PNG-q8n0dwc83qu20cd11t60l0up806x7ejkt85hrahesw.png"  />
   </a>
 </div>
 ###
