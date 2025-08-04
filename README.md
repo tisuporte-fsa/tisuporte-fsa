@@ -1,7 +1,9 @@
 <h2 align="left">Oláa 👋! Nós somos a Faculdade Santo Antônio de Caçapava </h2>
 
 ###
+Com 20 anos de experiência na área educacional como professora e fundadora de um dos maiores Centros Universitários de Rondônia, Dra. Maria Eliza retorna ao Vale do Paraíba com o propósito de transformar vidas por meio do conhecimento, trazendo para Caçapava um modelo de ensino superior inovador.
 
+A missão da Faculdade Santo Antônio é oferecer uma formação que valoriza a experiência, as habilidades e competências de cada aluno e alinhá-las às necessidades do mercado de trabalho é a missão da Faculdade Santo Antônio.
 
 
 ###
