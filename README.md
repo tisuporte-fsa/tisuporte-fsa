@@ -16,11 +16,11 @@ Acesse o Site Oficial e fique por dentro de todas as novidades.
     <img align="left" height="150" src="https://fsantoantonio.edu.br/wp-content/uploads/elementor/thumbs/branco_Marca_FSA_Horizontal_PNG-q8n0dwc83qu20cd11t60l0up806x7ejkt85hrahesw.png"  />
   </a>
 </div>
-###
+
 
 <img align="right" height="150" src="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2017/10/estudante_estudos.gif?w=245&h=132&crop=1"  />
 
-###
+
 
 <div align="left">
   
