@@ -5,6 +5,7 @@ Com 20 anos de experiência na área educacional como professora e fundadora de 
 
 A missão da Faculdade Santo Antônio é oferecer uma formação que valoriza a experiência, as habilidades e competências de cada aluno e alinhá-las às necessidades do mercado de trabalho é a missão da Faculdade Santo Antônio.
 
+<img align="right" height="150" src="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2017/10/estudante_estudos.gif?w=245&h=132&crop=1"  />
 
 ###
 
@@ -17,14 +18,6 @@ Acesse o Site Oficial e fique por dentro de todas as novidades.
   </a>
 </div>
 
-
-<img align="right" height="150" src="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2017/10/estudante_estudos.gif?w=245&h=132&crop=1"  />
-
-
-
-<div align="left">
-  
-</div>
 
 ###
 
