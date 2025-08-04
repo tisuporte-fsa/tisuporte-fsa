@@ -20,12 +20,9 @@ Acesse o Site Oficial e fique por dentro de todas as novidades.
 
 
 ###
-<br>
-<br>
-<br>
-<br>
-<h2 align="left">Contatos 🖥</h2>
-
+<div align="left">
+  <h2 align="left">Contatos 🖥</h2>
+</div>
 ###
 
 <div align="left">
